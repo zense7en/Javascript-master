@@ -6,13 +6,13 @@ console.log(4 + 8);
 // Subtraction operator
 console.log(4 - 8);
 
-// Multiplication operator
+// Nhân operator
 console.log(4 * 8);
 
 // Division operator
 console.log(4 / 8);
 
-// Modulus operator
+// Mô đun operator
 console.log(7 % 3);
 
 var num = 10;
